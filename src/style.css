@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background: #333;
+    padding: 10px;
+    margin: 10 px;
+}
+
+.nav-link {
+    font-size: 18px;
+    margin: 15px;
+}
+
+#aboutme {
+    margin: 25px;
+}
+
+#projects {
+    margin: 15px;
+}
+
+#services {
+    margin: 15px;
+}
+
+#connect {
+    margin: 15px;
+}
